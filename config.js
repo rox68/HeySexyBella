@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "DAD",
+    valentineName: "Hey faggot",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Are you gay for that bussy? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you love me?",                                    // First interaction
+            text: "Do you love big boobs?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-           secretAnswer: "Click me! Click me! Click me! Click me!"  // Hidden message
+           secretAnswer: "Click me if u gay! Click me if u gay ! Click me u gay! Click me if u gay!"  // Hidden message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "How much do you love girl butthole?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Would you be my gay bussy butthole licker pookie dookie? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
