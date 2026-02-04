@@ -25,6 +25,7 @@ const CONFIG = {
             text: "Do you love me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
+            nextBtn: "Next ❤️"                                         // Text for the next button
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
